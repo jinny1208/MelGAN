@@ -1,6 +1,6 @@
 import sys
 import torch
-from melgan_v2_rish.utils.stft import STFT
+from utils.stft import STFT
 
 
 class Denoiser(torch.nn.Module):

@@ -1,7 +1,7 @@
 data: # root path of train/validation data (either relative/absoulte path is ok)
-  train: '/home/jeonyj/Korean-Tacotron2/melgan_v2_rish/datasets/dataset_kss'
-  validation: '/home/jeonyj/Korean-Tacotron2/melgan_v2_rish/datasets/dataset_kss_val'
-  mel_path: '/home/jeonyj/Korean-Tacotron2/melgan_v2_rish/datasets/mels'
+  train: '/home/jeonyj/MelGAN/datasets/datasets/train'
+  validation: '/home/jeonyj/MelGAN/datasets/datasets/validation'
+  mel_path: '/home/jeonyj/MelGAN/datasets/datasets/mels'
 ---
 train:
   rep_discriminator: 1

@@ -6,7 +6,7 @@ import argparse
 from utils.train import train
 from utils.hparams import HParam
 from utils.writer import MyWriter
-from datasets.dataloader import create_dataloader
+from dataloader import create_dataloader
 
 
 if __name__ == '__main__':

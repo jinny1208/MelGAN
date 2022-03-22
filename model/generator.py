@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from melgan_v2_rish.utils.utils import weights_init # for inference
-#from utils.utils import weights_init # for training
+# from melgan_v2_rish.utils.utils import weights_init # for inference
+from utils.utils import weights_init # for training
 from .res_stack import ResStack
 # from res_stack import ResStack
 
