@@ -1,6 +1,5 @@
-# Multi-band MelGAN and Full band MelGAN
-Unofficial PyTorch implementation of [Multi-Band MelGAN paper](https://arxiv.org/abs/2005.05106). This implementation uses [Seungwon Park's](http://swpark.me) MelGAN repo as a base and PQMF filters
-implementation from this [repo](https://github.com/kan-bayashi/ParallelWaveGAN). 
+# MelGAN
+This implementation uses [Seungwon Park's](http://swpark.me) MelGAN repo as a base and PQMF filters implementation from this [repo](https://github.com/kan-bayashi/ParallelWaveGAN). 
 This repository was forked from user rishikksh20, but some changes were made. 
 
 ## Prerequisites
